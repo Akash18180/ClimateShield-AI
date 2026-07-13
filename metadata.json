@@ -1,0 +1,6 @@
+{
+  "name": "ClimateShield AI",
+  "description": "An AI-powered climate intelligence platform helping citizens and governments predict, protect, and prevent Extreme Heatwaves, Urban Flooding, and Air Pollution.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
